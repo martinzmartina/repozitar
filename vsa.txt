@@ -1,6 +1,2 @@
-
-- 3 požadované funkcionality, ktoré treba doplniť:
-
-
-- 3 chyby, ktoré boli zistené pri testovaní a treba ich odstrániť:
+lolololol
 
